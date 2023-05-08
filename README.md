@@ -29,11 +29,13 @@ Here are some ideas to get you started:
 
 [![img](https://github.com/Haoyi-Han/Haoyi-Han/raw/output/github-snake-dark.svg)](https://github.com/Haoyi-Han/Haoyi-Han/raw/output/github-snake-dark.svg)
 
-<img width="55%" align="left" src="https://github-readme-stats.vercel.app/api?username=Haoyi-Han&include_all_commits=true&show_icons=true&theme=chartreuse-dark" />
+<p>
+<img width="55%" align="left" src="https://github-readme-stats.vercel.app/api?username=Haoyi-Han&include_all_commits=true&show_icons=true&theme=chartreuse-dark"></img>
 
-<img width="42%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haoyi-Han&layout=compact&theme=chartreuse-dark" />       
+<img width="42%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haoyi-Han&layout=compact&theme=chartreuse-dark"></img>
+</p>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><hr/>
+<br/><br/><br/><br/><hr/>
 
 </div>
 
